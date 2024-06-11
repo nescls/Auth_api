@@ -1,0 +1,4 @@
+20230709	18:17:37	32d262a9-759d-4fab-bdb1-2ee2ccfa3af9	Error: Not allowed by CORS
+20230709	18:19:41	e6b124f3-a230-460f-b9a1-19758d5b809c	Error: Not allowed by CORS
+20230709	18:20:12	228e6470-fcdb-4261-8474-71a5ce69c554	Error: Not allowed by CORS
+20230709	18:20:25	93b7851c-d8d9-4aa9-b076-a159155d2e0b	Error: Not allowed by CORS
